@@ -1,0 +1,11 @@
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\LabRabBD\LabRabBD\bin\Debug\LabRabBD.exe.config
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\LabRabBD\LabRabBD\bin\Debug\Стол заказов.accdb
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\LabRabBD\LabRabBD\bin\Debug\LabRabBD.exe
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\LabRabBD\LabRabBD\bin\Debug\LabRabBD.pdb
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\LabRabBD\LabRabBD\obj\Debug\LabRabBD.csprojResolveAssemblyReference.cache
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\LabRabBD\LabRabBD\obj\Debug\LabRabBD.Form1.resources
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\LabRabBD\LabRabBD\obj\Debug\LabRabBD.Properties.Resources.resources
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\LabRabBD\LabRabBD\obj\Debug\LabRabBD.Zakazy.resources
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\LabRabBD\LabRabBD\obj\Debug\LabRabBD.csproj.GenerateResource.Cache
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\LabRabBD\LabRabBD\obj\Debug\LabRabBD.exe
+D:\!БИБЛИОТЕКА\МГВРК\3 КУРС\КПиЯП\Проекты С#\LabRabBD\LabRabBD\obj\Debug\LabRabBD.pdb
